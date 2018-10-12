@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-v2-boilerplate",
+  "version": "1.0.0",
+  "description": "gatsbyjs v2 boilerplate",
+  "main": "index.js",
+  "repository": "https://github.com/nabigraphics/gatsby-v2-boilerplate",
+  "author": "nabigraphics <hbh2692@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "start": "gatsby serve"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-helmet": "^5.2.0"
+  },
+  "devDependencies": {
+    "gatsby": "^2.0.21",
+    "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-plugin-sass": "^2.0.1",
+    "node-sass": "^4.9.3",
+    "prettier": "^1.14.3"
+  }
+}
